@@ -1,1 +1,1 @@
-# qtd-cursos
+Este código em C# calcula o número total de alunos únicos nos cursos A, B e C do instrutor X. Um mesmo aluno pode estar matriculado em mais de um curso, então o programa utiliza uma lista com verificação de duplicatas usando Contains() para evitar contar alunos repetidos. A solução é simples e implementada apenas na função Main, sem uso de orientação a objetos ou HashSet.
